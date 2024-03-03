@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    width: 250px;
+    background-color: rgb(186, 73, 73);;
+    font-family: "M PLUS Rounded 1c", sans-serif;
+
+  }
+
+  h1{
+    color: white;
+  }
+
+  #time {
+    font-weight: bold;
+    font-size: 2em;
+    margin-bottom: 0.2em;
+    color: white;
+  }
+  
+  button {
+    font-size: 1em;
+    border-width: 0cap;
+    color: rgb(209, 110, 110);
+    border-radius: 0.25em;
+    font-family: "M PLUS Rounded 1c", sans-serif;
+    font-weight: bold;
+  }
+  
+  #task-container {
+    display: flex;
+    flex-direction: column;
+    padding-top: 1rem;
+  }
+
+  .task-input {
+    border-width: 0cap;
+    border-radius: 0.25em;
+    margin: 3px;
+  }
+
+  .delete-btn {
+    border-width: 0cap;
+    border-radius: 0.25em;
+    background-color: rgb(209, 110, 110);
+    color: white;
+  }

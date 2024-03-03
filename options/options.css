@@ -1,0 +1,44 @@
+body {
+    background-color: lightcoral;
+    font-family: "M PLUS Rounded 1c", sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+    color: darkgreen;
+    font-size: 60px;
+
+}
+
+label {
+    color: white;
+    font-weight: lighter;
+    font-size: 20px;
+}
+
+input {
+    font-weight: 400;
+    font-style: normal;
+    color: darkgreen;
+    background-color: lightgreen;
+    padding: 3px;
+    border-radius: 0.25rem;
+    font-size: 16px;
+}
+
+button {
+    color: darkgreen;
+    background-color: lightgreen;
+    padding: 3px;
+    border-radius: 0.25rem;
+    font-size: 16px;
+}
+
+footer {
+    color: darkgreen;   
+    position:fixed;
+    left:10px;
+    bottom:5px;
+    width:100%;
+    
+}
